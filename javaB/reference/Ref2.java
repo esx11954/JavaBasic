@@ -24,8 +24,10 @@ class Ref2{
 		/*
 		 * 以下参照渡し
 		 */
-		Referred ref1 = new Referred();
-		ref1.setMoney(1000);
+		// ★Refferedクラスを"ref1"という変数名でインスタンス化
+		
+		// ★上記オブジェクトのmoneyフィールドにセッターを使用して1000を代入
+		
 		
 		// ここで参照渡しが行われる
 		Referred ref2 = ref1;

@@ -4,12 +4,13 @@ class Parse2{ // ParseJudgeクラスと連携
 	public static void main(String[] args){
 		
 		// 引数が1つならParseJudgeクラスをインスタンス化
+		// (コンストラクタに引数としてコマンドライン引数を渡す)
 		if(args.length == 1){
-			ParseJudge pj = new ParseJudge(args[0]);
+			// ★ここに処理を記入
 			
 			// 数値に変換可能なら2乗して出力
 			if(pj.isNumber()){
-				System.out.println("引数の2乗は " + pj.getResult() + " です");
+				// ★ここに処理を記入
 				
 			}else{
 				// 数値以外が入力された場合

@@ -8,9 +8,7 @@ class Args2{
 			
 			String str = "";
 			
-			for(String s: args){
-				str += s + " ";
-			}
+			// šArgs2.png ‚ÌÀsŒ‹‰Ê‚Æ‚È‚é‚æ‚¤‚Éfor•¶‚Åargs‚Ì’†g‚ğ˜AŒ‹‚µ‚Ü‚µ‚å‚¤
 			
 			System.out.println("ˆø”‚Æ‚µ‚Ä " + str + "‚ğó‚¯æ‚è‚Ü‚µ‚½");
 			

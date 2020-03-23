@@ -9,5 +9,8 @@ class FinalMain{
 		
 		// ↓finalが付いたフィールドにアクセスしようとするとコンパイルエラー
 		// FinalDefine.CO_ADDRESS = "株式会社レグル";
+		
+		// ★以下の記述だけで上記を実行できるようにFinalDefineクラスを書き換えてみましょう
+		// FinalDefine.showCoDetail();
 	}
 }

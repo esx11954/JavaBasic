@@ -9,10 +9,6 @@ class MultiDim2{
 						 {"2020年", "5月", "15日", "15時"}};
 		
 		// 多次元配列のすべての要素を出力
-		for(int i = 0; i < goods.length; i++){
-			for(int j = 0; j < goods[i].length; j++){
-				System.out.println(goods[i][j]);
-			}
-		}
+		// ★ここに処理を記入
 	}
 }

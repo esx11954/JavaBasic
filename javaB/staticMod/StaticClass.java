@@ -9,3 +9,4 @@ class StaticClass{
 		return n1 * this.n2;
 	}
 }
+
