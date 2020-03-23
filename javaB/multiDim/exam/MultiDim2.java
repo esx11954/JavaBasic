@@ -1,4 +1,4 @@
-package javaB.multiDim;
+package javaB.multiDim.exam;
 
 class MultiDim2{
 	public static void main(String[] args){

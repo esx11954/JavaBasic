@@ -1,4 +1,4 @@
-package javaB.parse;
+package javaB.parse.exam;
 
 class Parse2{ // ParseJudgeƒNƒ‰ƒX‚Æ˜AŒg
 	public static void main(String[] args){

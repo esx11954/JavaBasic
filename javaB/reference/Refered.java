@@ -1,6 +1,6 @@
 package javaB.reference;
 
-class Referred{
+public class Refered{
 	int money;
 	
 	// セッター

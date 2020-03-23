@@ -1,4 +1,4 @@
-package javaB.interFace;
+package javaB.interFace.exam;
 
 // ÀsƒNƒ‰ƒX
 class InterfaceMain{

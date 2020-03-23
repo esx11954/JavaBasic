@@ -1,4 +1,4 @@
-package javaB.exception;
+package javaB.exception.exam;
 
 class ThrowsTestMain{
 	public static void main(String[] args){

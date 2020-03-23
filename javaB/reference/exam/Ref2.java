@@ -1,4 +1,6 @@
-package javaB.reference;
+package javaB.reference.exam;
+
+import javaB.reference.Refered;
 
 class Ref2{
 	public static void main(String[] args){
@@ -24,13 +26,12 @@ class Ref2{
 		/*
 		 * 以下参照渡し
 		 */
-		// ★Refferedクラスを"ref1"という変数名でインスタンス化
+		// ★Referedクラスを"ref1"という変数名でインスタンス化
 		
 		// ★上記オブジェクトのmoneyフィールドにセッターを使用して1000を代入
 		
-		
 		// ここで参照渡しが行われる
-		Referred ref2 = ref1;
+		Refered ref2 = ref1;
 		
 		// trueが出力される
 		System.out.println(ref1 == ref2);
