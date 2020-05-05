@@ -10,11 +10,11 @@ class ParseJudge{
 	}
 	
 	public boolean isNumber() {
-    	return Pattern.compile("^[0-9]+$").matcher(str).find();
+    	return Pattern.compile("^[0-9]+$").matcher(this.str).find();
 	}
 	
 	public int getResult(){
-		return Integer.parseInt(str) * Integer.parseInt(str);
+		return Integer.parseInt(this.str) * Integer.parseInt(this.str);
 	}
 }
 
