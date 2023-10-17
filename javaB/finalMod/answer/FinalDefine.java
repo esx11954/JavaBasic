@@ -1,13 +1,13 @@
 package javaB.finalMod;
 
 class FinalDefine{
-	private static final String CO_NAME = "Š”®‰ïĞƒŒƒOƒ‹ƒJƒZ";
-	private static final String CO_ADDRESS = "“Œ‹“sç‘ã“c‹æ_“c²‹vŠÔ’¬2-8-9 ƒVƒƒƒ“ƒsƒAH—tŒ´ƒrƒ‹7F";
-	private static final String CO_CEO = "•x‰ªˆê‹P";
+	private static final String CO_NAME = "ã‚¨ã‚¤ãƒˆãƒ“ãƒƒãƒˆæ ªå¼ä¼šç¤¾";
+	private static final String CO_ADDRESS = "æ±äº¬éƒ½è±Šå³¶åŒºæ±æ± è¢‹1-18-1ã€€Hareza Tower 20F"";
+	private static final String CO_CEO = "æ·±æ¾¤ å¼˜æ¨¹";
 	
 
 	public static void showCoDetail(){
-		System.out.println(FinalDefine.CO_NAME + " ‚ÌZŠ‚Í " + FinalDefine.CO_ADDRESS + " ‚Å‚·");
-		System.out.println(FinalDefine.CO_NAME + " ‚ÌĞ’·‚Í " + FinalDefine.CO_CEO + " ‚Å‚·");
+		System.out.println(FinalDefine.CO_NAME + " ã®ä½æ‰€ã¯ " + FinalDefine.CO_ADDRESS + " ã§ã™");
+		System.out.println(FinalDefine.CO_NAME + " ã®ç¤¾é•·ã¯ " + FinalDefine.CO_CEO + " ã§ã™");
 	}
 }
