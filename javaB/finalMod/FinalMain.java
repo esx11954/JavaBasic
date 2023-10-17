@@ -3,14 +3,14 @@ package javaB.finalMod;
 class FinalMain{
 	public static void main(String[] args){
 		
-		// FinalDefineƒNƒ‰ƒX‚ğƒCƒ“ƒXƒ^ƒ“ƒX‰»‚¹‚¸‚ÉƒtƒB[ƒ‹ƒh‚ÉƒAƒNƒZƒX
-		System.out.println(FinalDefine.CO_NAME + " ‚ÌZŠ‚Í " + FinalDefine.CO_ADDRESS + " ‚Å‚·");
-		System.out.println(FinalDefine.CO_NAME + " ‚ÌĞ’·‚Í " + FinalDefine.CO_CEO + " ‚Å‚·");
+		// FinalDefineã‚¯ãƒ©ã‚¹ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã›ãšã«ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã«ã‚¢ã‚¯ã‚»ã‚¹
+		System.out.println(FinalDefine.CO_NAME + " ã®ä½æ‰€ã¯ " + FinalDefine.CO_ADDRESS + " ã§ã™");
+		System.out.println(FinalDefine.CO_NAME + " ã®ç¤¾é•·ã¯ " + FinalDefine.CO_CEO + " ã§ã™");
 		
-		// «final‚ª•t‚¢‚½ƒtƒB[ƒ‹ƒh‚ÉƒAƒNƒZƒX‚µ‚æ‚¤‚Æ‚·‚é‚ÆƒRƒ“ƒpƒCƒ‹ƒGƒ‰[
-		// FinalDefine.CO_ADDRESS = "Š”®‰ïĞƒŒƒOƒ‹";
+		// â†“finalãŒä»˜ã„ãŸãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã‚ˆã†ã¨ã™ã‚‹ã¨ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã‚¨ãƒ©ãƒ¼
+		// FinalDefine.CO_ADDRESS = "ã‚¨ã‚¤ãƒˆãƒ“ãƒƒãƒˆæ ªå¼ä¼šç¤¾";
 		
-		// šˆÈ‰º‚Ì‹Lq‚¾‚¯‚Åã‹L‚ğÀs‚Å‚«‚é‚æ‚¤‚ÉFinalDefineƒNƒ‰ƒX‚ğ‘‚«Š·‚¦‚Ä‚İ‚Ü‚µ‚å‚¤
+		// â˜…ä»¥ä¸‹ã®è¨˜è¿°ã ã‘ã§ä¸Šè¨˜ã‚’å®Ÿè¡Œã§ãã‚‹ã‚ˆã†ã«FinalDefineã‚¯ãƒ©ã‚¹ã‚’æ›¸ãæ›ãˆã¦ã¿ã¾ã—ã‚‡ã†
 		// FinalDefine.showCoDetail();
 	}
 }
